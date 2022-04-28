@@ -1,0 +1,12 @@
+.nav{
+    padding: 0.75rem 0.5rem;
+    background-color: #8919f1;
+    margin-bottom: 0.75rem;
+}
+
+.brand{
+    color: #fff;
+    font-weight: 600;
+    line-height: 1.75rem;
+    font-size: 1.5rem;
+}
