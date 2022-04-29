@@ -36,7 +36,7 @@ export interface WeatherData {
     name: string;
 }
 export interface Coord {
-    lon: number;
-    lat: number;
+    longitude: number;
+    latitude: number;
 }
 
